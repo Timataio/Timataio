@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Tim. I am a computer science major at the University of Scranton.
+
 <!--
 **Timataio/Timataio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
