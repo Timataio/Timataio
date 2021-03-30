@@ -1,6 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Tim. I am a computer science major at the University of Scranton.
+My name is **Tim Gallagher**. I am a *computer science* major at the University of Scranton.
+Courses I am taking
+* CMPS 370
+* CMPS 344
+
+<!-- -->
+
+
 
 <!--
 **Timataio/Timataio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
